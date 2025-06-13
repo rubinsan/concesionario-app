@@ -31,6 +31,12 @@ Aplicación de consola escrita en **C++** y desarrollada en **Linux** que simula
 
 📁 Todos los datos se almacenan en archivos `.txt`.
 
+### Diagrama de clases
+
+<p align="center">
+<img src="./doc/Diagrama_clases.jpg" style="height: 70%; width: 70%;"/>
+</p>
+
 ## Authors
 
 * **David Villanueva Arteaga**

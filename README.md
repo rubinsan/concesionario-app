@@ -34,7 +34,7 @@ Aplicación de consola escrita en **C++** y desarrollada en **Linux** que simula
 ### Diagrama de clases
 
 <p align="center">
-<img src="./doc/Diagrama_clases.jpg"/>
+<img src="./doc/Diagrama_clases.png"/>
 </p>
 
 ## Authors

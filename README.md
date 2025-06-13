@@ -30,3 +30,12 @@ Aplicación de consola escrita en **C++** y desarrollada en **Linux** que simula
   - Por fecha, intervalo de tiempo o ID de usuario.
 
 📁 Todos los datos se almacenan en archivos `.txt`.
+
+## Authors
+
+* **David Villanueva Arteaga**
+* **Ruben Sanchez** - [rubinsan](https://github.com/rubinsan)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
